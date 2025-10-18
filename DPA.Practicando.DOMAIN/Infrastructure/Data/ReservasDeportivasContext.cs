@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using DPA.Practicando.DOMAIN.Core.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace DPA.Practicando.DOMAIN.Infrastructure.Data;

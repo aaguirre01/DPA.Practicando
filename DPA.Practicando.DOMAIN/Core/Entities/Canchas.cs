@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DPA.Practicando.DOMAIN.Core.Entities;
+using System;
 using System.Collections.Generic;
 
 namespace DPA.Practicando.DOMAIN.Infrastructure.Data;
